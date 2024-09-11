@@ -34,11 +34,15 @@ Anomaly Detection: Machine Learning algorithms (e.g., scikit-learn, TensorFlow)
 <h4>Clone the repository:</h4>
 
 git clone https://github.com/yourusername/police-women-safety.git
-cd police-women-safety
+
+
+<h4>cd police-women-safety</h4>
 
 <h4>Install dependencies:</h4>
+
 npm install
-Start the development server:
+
+<h4>Start the development server:</h4>
 
 npm start
 Open the app in your browser:
